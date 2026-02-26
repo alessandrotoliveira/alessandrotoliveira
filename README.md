@@ -18,7 +18,7 @@ Sou um profissional em transição de carreira, unindo a **visão estratégica d
 ### 🎯 No que estou trabalhando agora:
 * 🎓 Graduando em **Engenharia de Software** (Estácio).
 * ⌨️ Cadete na **42 São Paulo** (Projetos em C, Shell e Algoritmos).
-* 🛡️ Estudando fundamentos de **Data analist** e **Cloud Computing**.
+* 🛡️ Estudando fundamentos de **Data Analisis** e **Cloud Computing**.
 
 ### 💼 Diferenciais Estratégicos:
 Minha trajetória no setor bancário consolidou competências em:
