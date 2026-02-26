@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá, eu sou o Alessandro! 👋
 
-<!--
-**alessandrotoliveira/alessandrotoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Do Mercado Financeiro para a Engenharia de Software
+Sou um profissional em transição de carreira, unindo a **visão estratégica de negócios** e a **mentalidade de dono** adquiridas no Banco do Brasil com a base técnica rigorosa da **42 São Paulo**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e Ferramentas:
+<div>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</div>
+
+---
+### 🎯 No que estou trabalhando agora:
+* 🎓 Graduando em **Engenharia de Software** (Estácio).
+* ⌨️ Cadete na **42 São Paulo** (Projetos em C, Shell e Algoritmos).
+* 🛡️ Estudando fundamentos de **Data analist** e **Cloud Computing**.
+
+### 💼 Diferenciais Estratégicos:
+Minha trajetória no setor bancário consolidou competências em:
+* **Resolução de problemas complexos** e pensamento crítico.
+* **Comunicação clara** e foco em resultados sustentáveis.
+* **Autonomia** e mentalidade de dono.
+
+---
+
+📫 **Conecte-se comigo:**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandrotoliveira/)
